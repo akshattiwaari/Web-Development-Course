@@ -1,0 +1,8 @@
+HTML Quotation and Citation Elements
+
+1. <q> for Short Quotation
+2. <abbr> for Abbreviations
+3. <address> for Contact Information
+4. <blockquote> for Quotation
+5. <cite> for Work Title
+6. <bdo> for Bi-Directional Override
