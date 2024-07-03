@@ -1,0 +1,2 @@
+Details Tag- <details> (<summary>)
+keyboard tag- <kbd>
